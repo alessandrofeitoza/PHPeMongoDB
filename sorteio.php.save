@@ -1,0 +1,9 @@
+<?php
+	$pessoas = array(
+		
+	);
+
+	echo "\n###########\n";
+	echo "\n### ",rand(1,10);
+	echo "\n###########\n";
+?>	
